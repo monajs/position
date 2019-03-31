@@ -22,9 +22,10 @@ $ npm i --save @monajs/position
 import position from '@monajs/position'
 
 const ele = document.querySelector('#appWrapper')
-position(ele).then(res => {
-	console.log(res)
-})
+// console.log(position._position(ele))
+
+console.log(position(ele))
+
 ```
 
 ## 返回的节点信息
