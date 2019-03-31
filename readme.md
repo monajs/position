@@ -29,7 +29,7 @@ console.log(position(ele))
 ```
 
 ## 返回的节点信息
-```
+```js
 {
     bottom: -133,
     bottomToTop: 800,
