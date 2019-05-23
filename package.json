@@ -1,7 +1,7 @@
 {
     "name": "@monajs/position",
-    "version": "0.0.1",
-    "description": "Mona系列 - Position",
+    "version": "1.1.1",
+    "description": "Analysis of node position information.",
     "main": "index.js",
     "scripts": {
         "start": "node ./build/webpack.dev.js",
@@ -12,18 +12,17 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+.git"
+        "url": "git+https://github.com/monajs/position.git"
     },
     "keywords": [
-        "list-diff",
-        "diff"
+        "position"
     ],
     "author": "yangxi",
     "license": "ISC",
     "bugs": {
-        "url": "/issues"
+        "url": "https://github.com/monajs/position/issues"
     },
-    "homepage": "#readme",
+    "homepage": "https://github.com/monajs/position#readme",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.3",
